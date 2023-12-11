@@ -1,4 +1,4 @@
 Calculator is the first app I have created with flutter. First, I created the app UI and built the logic later using MATH pacakge
-![Screenshot_20231211-140854](https://github.com/vyanky03/CalculatorApp/assets/99646164/877034ae-88ea-47cf-82bd-476f54046b42)
-![Screenshot_20231211-140958](https://github.com/vyanky03/CalculatorApp/assets/99646164/ab637ceb-260a-495a-8428-bd13df4a63d2)
-![Screenshot_20231211-141002](https://github.com/vyanky03/CalculatorApp/assets/99646164/2f151ca2-75fe-4930-a96c-d064e4bac572)
+![Screen1](https://github.com/vyanky03/CalculatorApp/assets/99646164/9ac5ce8f-44e9-4641-8c61-aaeafa084396){:height="36px" width="36px"}
+![Screen2](https://github.com/vyanky03/CalculatorApp/assets/99646164/933daba0-e110-41cd-b76f-7003cd17a057){:height="36px" width="36px"}
+![Screen3](https://github.com/vyanky03/CalculatorApp/assets/99646164/aa7b9949-64aa-4f44-a30b-08d567aff4a1){:height="36px" width="36px"}
